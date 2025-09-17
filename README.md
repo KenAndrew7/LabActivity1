@@ -180,3 +180,6 @@ Each student must:
 \n## Additional Notes\nThis is an update.
 \n## Additional Notes\nThis is an update.
 \n## Additional Notes\nThis is an update.
+
+## Additional Notes
+This is an update.
