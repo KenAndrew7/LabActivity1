@@ -117,6 +117,9 @@ Edit `README.md` using an editor or terminal:
 ```bash
 echo "\n## Additional Notes\nThis is an update." >> README.md
 ```
+```powershell
+Add-Content README.md "`n## Additional Notes`nThis is an update."
+```
 
 Stage, commit, and push:
 
