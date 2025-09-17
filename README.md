@@ -186,3 +186,6 @@ Each student must:
 
 ## Additional Notes
 This is an update.
+
+## Additional Notes
+This is an update.
